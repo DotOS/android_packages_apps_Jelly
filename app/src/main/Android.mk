@@ -35,7 +35,7 @@ LOCAL_STATIC_ANDROID_LIBRARIES := \
     android-support-v7-recyclerview \
     android-support-annotations
 
-LOCAL_PACKAGE_NAME := Jelly
+LOCAL_PACKAGE_NAME := Browser
 
 LOCAL_PRIVATE_PLATFORM_APIS := true
 
