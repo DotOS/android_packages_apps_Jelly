@@ -15,7 +15,7 @@
 //
 
 android_app {
-    name: "Jelly",
+    name: "Browser",
 
     resource_dirs: ["res"],
 
